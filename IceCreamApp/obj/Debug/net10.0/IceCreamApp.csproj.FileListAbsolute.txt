@@ -1,0 +1,14 @@
+/Users/ibbe/Downloads/C-/IceCreamApp/bin/Debug/net10.0/IceCreamApp
+/Users/ibbe/Downloads/C-/IceCreamApp/bin/Debug/net10.0/IceCreamApp.deps.json
+/Users/ibbe/Downloads/C-/IceCreamApp/bin/Debug/net10.0/IceCreamApp.runtimeconfig.json
+/Users/ibbe/Downloads/C-/IceCreamApp/bin/Debug/net10.0/IceCreamApp.dll
+/Users/ibbe/Downloads/C-/IceCreamApp/bin/Debug/net10.0/IceCreamApp.pdb
+/Users/ibbe/Downloads/C-/IceCreamApp/obj/Debug/net10.0/IceCreamApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibbe/Downloads/C-/IceCreamApp/obj/Debug/net10.0/IceCreamApp.AssemblyInfoInputs.cache
+/Users/ibbe/Downloads/C-/IceCreamApp/obj/Debug/net10.0/IceCreamApp.AssemblyInfo.cs
+/Users/ibbe/Downloads/C-/IceCreamApp/obj/Debug/net10.0/IceCreamApp.csproj.CoreCompileInputs.cache
+/Users/ibbe/Downloads/C-/IceCreamApp/obj/Debug/net10.0/IceCreamApp.dll
+/Users/ibbe/Downloads/C-/IceCreamApp/obj/Debug/net10.0/refint/IceCreamApp.dll
+/Users/ibbe/Downloads/C-/IceCreamApp/obj/Debug/net10.0/IceCreamApp.pdb
+/Users/ibbe/Downloads/C-/IceCreamApp/obj/Debug/net10.0/IceCreamApp.genruntimeconfig.cache
+/Users/ibbe/Downloads/C-/IceCreamApp/obj/Debug/net10.0/ref/IceCreamApp.dll
