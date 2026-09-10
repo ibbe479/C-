@@ -1,0 +1,83 @@
+## .gitignore för C# / .NET-projekt
+
+# Build-resultat
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww]in32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+bld/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Testresultat
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+# Publiceringsartefakter
+*.pubxml
+*.publishproj
+publish/
+PublishProfiles/
+
+# ASP.NET
+*.pfx
+*.cer
+*.pvk
+wwwroot/dist/
+
+# Loggar och tillfälliga filer
+*.log
+*.tmp
+*.cache
+*.bak
+
+# OS-specifika filer
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Miljövariabler / secrets
+*.env
+appsettings.*.local.json
+secrets.json
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Andra vanliga byggverktyg
+*.dll
+*.pdb
+*.exe
+!packages/**/*.dll
