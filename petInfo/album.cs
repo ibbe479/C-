@@ -26,8 +26,8 @@ public class album
 
     public void showInfo(){
          Console.WriteLine($"Album name: {albumName} ");
-         Console.WriteLine($"Artist name: {artistName}")
-         Console.WriteLine($"Number of tracks: {numOfTracks}")
+        Console.WriteLine($"Artist name: {artistName}");
+         Console.WriteLine($"Number of tracks: {numOfTracks}");
 
     }
     
