@@ -1,6 +1,6 @@
 using System;
 
-namespace petInfo;
+namespace Assignment_1;
 
 public class pet
 {

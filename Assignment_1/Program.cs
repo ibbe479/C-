@@ -1,4 +1,4 @@
-namespace petInfo;
+namespace  Assignment_1;
 
 class Program
 {
@@ -7,12 +7,16 @@ class Program
         
         pet myPet = new pet();
         album myAlbum = new album();
+        ticket myTicket = new ticket();
         
         myPet.setInfo();
         myPet.showInfo();
 
         myAlbum.setInfo();
         myAlbum.showInfo();
+
+        myTicket.setInfo();
+        myTicket.showInfo();
 
         
     }
