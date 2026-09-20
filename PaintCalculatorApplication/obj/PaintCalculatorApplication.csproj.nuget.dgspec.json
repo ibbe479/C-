@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibrah\\Downloads\\C-\\PaintCalculatorApplication\\PaintCalculatorApplication.csproj": {}
+    "/Users/ibbe/Downloads/C-/PaintCalculatorApplication/PaintCalculatorApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibrah\\Downloads\\C-\\PaintCalculatorApplication\\PaintCalculatorApplication.csproj": {
+    "/Users/ibbe/Downloads/C-/PaintCalculatorApplication/PaintCalculatorApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah\\Downloads\\C-\\PaintCalculatorApplication\\PaintCalculatorApplication.csproj",
+        "projectUniqueName": "/Users/ibbe/Downloads/C-/PaintCalculatorApplication/PaintCalculatorApplication.csproj",
         "projectName": "PaintCalculatorApplication",
-        "projectPath": "C:\\Users\\ibrah\\Downloads\\C-\\PaintCalculatorApplication\\PaintCalculatorApplication.csproj",
-        "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah\\Downloads\\C-\\PaintCalculatorApplication\\obj\\",
+        "projectPath": "/Users/ibbe/Downloads/C-/PaintCalculatorApplication/PaintCalculatorApplication.csproj",
+        "packagesPath": "/Users/ibbe/.nuget/packages/",
+        "outputPath": "/Users/ibbe/Downloads/C-/PaintCalculatorApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/ibbe/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
