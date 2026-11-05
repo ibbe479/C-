@@ -3,8 +3,7 @@ namespace CalculatorsV1;
 public class BMICalculator
 {
     private string name = "No Name";
-    private double height = 0;   // meter (Metric) eller tum (Imperial)
-    private double weight = 0;   // kg (Metric) eller lb (Imperial)
+    private double height = 0;       private double weight = 0;   // kg (Metric) eller lb (Imperial)
     private UnitTypes unit = UnitTypes.Metric;
 
     public void SetName(string value)

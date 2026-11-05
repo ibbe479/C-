@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/ibbe/.nuget/packages/": {}
+    "C:\\Users\\ibrah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ibbe/Downloads/C-/PaintCalculatorApplication/PaintCalculatorApplication.csproj",
+      "projectUniqueName": "C:\\Users\\ibrah\\Downloads\\C-\\PaintCalculatorApplication\\PaintCalculatorApplication.csproj",
       "projectName": "PaintCalculatorApplication",
-      "projectPath": "/Users/ibbe/Downloads/C-/PaintCalculatorApplication/PaintCalculatorApplication.csproj",
-      "packagesPath": "/Users/ibbe/.nuget/packages/",
-      "outputPath": "/Users/ibbe/Downloads/C-/PaintCalculatorApplication/obj/",
+      "projectPath": "C:\\Users\\ibrah\\Downloads\\C-\\PaintCalculatorApplication\\PaintCalculatorApplication.csproj",
+      "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ibrah\\Downloads\\C-\\PaintCalculatorApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ibbe/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
